@@ -1,0 +1,16 @@
+<svg width="25.000000" height="25.000000" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip185_6222">
+			<rect id="fi-rs-shopping-cart" width="25.000000" height="25.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fi-rs-shopping-cart" width="25.000000" height="25.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip185_6222)">
+		<path id="Vector" d="M25 3.12L4.41 3.12L4.37 2.75C4.28 1.99 3.91 1.29 3.34 0.79C2.77 0.28 2.03 0 1.27 0L0 0L0 2.08L1.27 2.08C1.52 2.08 1.77 2.17 1.96 2.34C2.15 2.51 2.27 2.74 2.3 3L3.95 17.03C4.04 17.79 4.41 18.49 4.98 19C5.55 19.51 6.29 19.79 7.06 19.79L20.83 19.79L20.83 17.7L7.06 17.7C6.8 17.7 6.55 17.61 6.36 17.44C6.17 17.27 6.05 17.04 6.02 16.78L5.88 15.62L22.74 15.62L25 3.12ZM21 13.54L5.64 13.54L4.66 5.2L22.5 5.2L21 13.54Z" fill="#454444" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M9.37 22.91C9.37 24.06 8.44 25 7.29 25C6.14 25 5.2 24.06 5.2 22.91C5.2 21.76 6.14 20.83 7.29 20.83C8.44 20.83 9.37 21.76 9.37 22.91Z" fill="#454444" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M19.79 22.91C19.79 24.06 18.85 25 17.7 25C16.55 25 15.62 24.06 15.62 22.91C15.62 21.76 16.55 20.83 17.7 20.83C18.85 20.83 19.79 21.76 19.79 22.91Z" fill="#454444" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

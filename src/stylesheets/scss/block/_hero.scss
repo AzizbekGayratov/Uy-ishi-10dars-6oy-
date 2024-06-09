@@ -1,0 +1,103 @@
+.hero {
+    &__block {
+        background: rgb(217, 217, 217);
+        padding: 65px 77px;
+        margin-bottom: 40px;
+    }
+
+    &__title {
+        color: rgb(69, 68, 68);
+        font-family: Inter;
+        font-size: 36px;
+        font-weight: 400;
+        line-height: 44px;
+        letter-spacing: 0%;
+        text-align: left;
+        text-transform: uppercase;
+    }
+
+    &__content {
+        max-width: 450px;
+    }
+
+    &__btn {
+        display: inline-block;
+        margin-top: 30px;
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 27px;
+        letter-spacing: 0%;
+        text-align: center;
+        border: none;
+        outline: none;
+        padding: 17px 62px;
+        border-radius: 30px;
+        background: rgb(69, 68, 68);
+        cursor: pointer;
+
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+}
+
+.hero__filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+}
+
+.hero__filters__link {
+    padding: 22px 38px 22px 22px;
+    border-radius: 30px;
+    color: rgb(69, 68, 68);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    background: rgb(239, 239, 239);
+    position: relative;
+
+    &::after {
+        content: url('/src/assets/header-arrow.svg');
+        position: absolute;
+        top: 22px;
+        right: 10px;
+    }
+
+}
+
+.hero__filters__btn {
+    padding: 22px 38px 22px 22px;
+    color: rgb(69, 68, 68);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    box-sizing: border-box;
+    border: 1px solid rgb(217, 217, 217);
+    border-radius: 30px;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    background: transparent;
+    position: relative;
+
+    &::after {
+        content: url('/src/assets/header-arrow.svg');
+        position: absolute;
+        top: 22px;
+        right: 10px;
+    }
+}
